@@ -1,0 +1,1 @@
+An XBee and Arduino system where the user can wirelessly control a robotic hand with a wearable glove.
